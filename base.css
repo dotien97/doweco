@@ -1,0 +1,49 @@
+.col-xl-55 {
+    flex: 0 0 53.82% ;
+    max-width: 53.82% !important;
+    padding: 0;
+}
+.col-xl-45 {
+    flex: 0 0 46.18% ;
+    max-width: 46.18% !important;
+    padding: 0;
+}
+/* .col-lg-55 {
+    flex: 0 0 46%;
+    max-width: 46%;
+    padding: 0;
+}
+.col-lg-45 {
+    flex: 0 0 54%;
+    max-width: 54%;
+    padding: 0;
+} */
+/* .col-md-55 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+}
+.col-md-45 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+} */
+.products .col-xl-55 ,
+.products .col-xl-45 {
+    padding: 0;
+}
+.header-desktop .container a {
+    color: inherit; 
+    text-decoration: none; 
+}
+.slider .slider-item .slider-item-button a {
+    color: inherit; 
+    text-decoration: none; 
+}
+.products .container a {
+    color: inherit; 
+    text-decoration: none; 
+}
+.product-reviews .col-xl-4 {
+    padding: 0 22.5px;
+}

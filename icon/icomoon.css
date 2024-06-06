@@ -1,0 +1,115 @@
+@font-face{
+  font-family:icomoon;
+  src:url(../fonts/icomoon.eot?fzv6fp);
+  src:url(../fonts/icomoon.eot?fzv6fp#iefix) format("embedded-opentype"),url(../fonts/icomoon.ttf?fzv6fp) format("truetype"),url(../fonts/icomoon.woff?fzv6fp) format("woff"),url(../fonts/icomoon.svg?fzv6fp#icomoon) format("svg");
+  font-weight:400;
+  font-style:normal;
+  font-display:block;
+}
+
+[class*=" icon-"],[class^=icon-]{
+  font-family:icomoon;
+  speak:none;
+  font-style:normal;
+  font-weight:400;
+  font-variant:normal;
+  text-transform:none;
+  line-height:1;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+
+.icon-sign-in:before {
+  content: "\e900";
+}
+.icon-download-22:before {
+  content: "\e902";
+}
+.icon-download-8:before {
+  content: "\e903";
+}
+.icon-search1:before {
+  content: "\e904";
+}
+.icon-phone:before {
+  content: "\e905";
+}
+.icon-shipping:before {
+  content: "\e906";
+}
+.icon-compare:before {
+  content: "\e907";
+}
+.icon-free-ship:before {
+  content: "\e908";
+}
+.icon-quality:before {
+  content: "\e909";
+}
+.icon-support:before {
+  content: "\e90a";
+}
+.icon-menu:before {
+  content: "\e90b";
+}
+.icon-download-21:before {
+  content: "\e90c";
+}
+.icon-email:before {
+  content: "\e90d";
+}
+.icon-wishlist:before {
+  content: "\e90e";
+}
+.icon-cart:before {
+  content: "\e90f";
+}
+.icon-left:before {
+  content: "\e910";
+}
+.icon-arrow-right:before {
+  content: "\e911";
+}
+.icon-plus:before {
+  content: "\e912";
+}
+.icon-right:before {
+  content: "\e913";
+}
+.icon-Group:before {
+  content: "\e914";
+}
+.icon-bathroom:before {
+  content: "\e915";
+}
+.icon-bed:before {
+  content: "\e916";
+}
+.icon-decor:before {
+  content: "\e917";
+}
+.icon-furniture:before {
+  content: "\e918";
+}
+.icon-kitchen:before {
+  content: "\e919";
+}
+.icon-lighting:before {
+  content: "\e91a";
+}
+.icon-outdoor:before {
+  content: "\e91b";
+}
+.icon-table:before {
+  content: "\e91c";
+}
+.icon-x-twitter:before {
+  content: "\e91d";
+}
+.icon-menu-2:before {
+  content: "\e91e";
+}
+.icon-search:before {
+  content: "\e901";
+}
